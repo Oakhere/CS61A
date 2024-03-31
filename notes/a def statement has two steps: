@@ -1,0 +1,3 @@
+a def statement has two steps:
+	1. creates a new funtion whose parrent is the current frame
+	2. rebind the name of the funtion to that function(binding always happens in the current frame)
